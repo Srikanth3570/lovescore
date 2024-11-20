@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Dancing+Script:wght@400..700&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Engagement&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Cormorant:ital,wght@0,300..700;1,300..700&family=Dancing+Script:wght@400..700&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Engagement&display=swap');
+
+*{
+    background-color: #ffc2d1;
+}
+h1,h2,h3{
+    font-family: "Engagement","cursive";
+    font-weight: 400;
+    font-style: normal; 
+    font-size: 3rem;
+}
+p,.subname,.clickhere{
+  font-family: "Cormorant", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.5rem;
+}
+.featurette{
+    padding:3rem;
+}
+img{
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+    opacity: 0.9;
+}
+.lead{
+    text-align: justify;
+    line-height: 2.0;
+    
+
+}
